@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: papeloto/gridsome-netlify-cms
 
 media_folder: "static/uploads"
