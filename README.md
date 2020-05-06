@@ -1,14 +1,5 @@
-# Default starter for Gridsome
+# Gridsome Netlify CMS Template 
 
-This is the project you get when you run `gridsome create new-project`.
+Basic setup following the steps by the [official docs](https://gridsome.org/docs/guide-netlify-cms/).
 
-### 1. Install Gridsome CLI tool if you don't have
-
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+Don't forget to update the file `src/admin/config.yml` with your GitHub username and repo name.
